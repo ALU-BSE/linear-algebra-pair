@@ -1,9 +1,6 @@
 import pandas as pd
 import numpy as np
 
-# Load data
-data = pd.read_csv('path/to/data')
-
 # Example arrays
 Prices = [[300, 500],
           [1000, 120.85]]
